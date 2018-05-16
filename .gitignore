@@ -18,7 +18,7 @@
 
 .byebug_history
 
-/.idea
+.idea/
 /vendor/bundle
 
 # Ignore Spring files.
